@@ -48,3 +48,9 @@ Se seleccionaron variables relevantes para análisis pedagógico:
 - No se incluyen identificadores sensibles de equipo o instalación.
 - No se generan datos sintéticos.
 
+## Data license / Terms
+
+- **Código del repositorio**: licenciado bajo MIT (ver `LICENSE`).
+- **Datos de `data/sample_power_quality.csv`**: muestra anonimizada compartida para fines educativos y de evaluación académica de la propuesta de mentoría en DiploDatos.
+- **Uso responsable**: no intentar reidentificación de instalaciones/equipos ni inferencia de información sensible.
+
