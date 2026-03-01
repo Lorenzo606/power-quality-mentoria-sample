@@ -17,6 +17,7 @@ Compartir una muestra pública y anonimizada de un dataset real de monitoreo de 
 ## Estructura
 
 - `data/sample_power_quality.csv`: muestra pública reducida.
+- `data/README.md`: descripción de la muestra, recorte y uso.
 - `notebooks/01_eda_muestra.ipynb`: EDA inicial reproducible.
 - `src/power_quality/io.py`: utilidades de carga y tipado temporal.
 - `src/power_quality/quality_checks.py`: chequeos básicos de calidad temporal y de valores.
