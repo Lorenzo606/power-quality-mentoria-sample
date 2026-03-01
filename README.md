@@ -25,6 +25,17 @@ Compartir una muestra pública y anonimizada de un dataset real de monitoreo de 
 
 ## Reproducibilidad con uv
 
+### Quickstart (2 comandos)
+
+```bash
+uv sync
+uv run jupyter lab
+```
+
+### Entorno desde cero
+
+Si necesitás crear entorno desde cero, podés usar también `uv venv` antes de `uv sync`.
+
 ```bash
 uv venv
 uv sync

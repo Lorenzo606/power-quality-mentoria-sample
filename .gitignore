@@ -1,7 +1,14 @@
-.venv/
+# Python
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
 *.pyo
 *.pyd
+
+# Virtual environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
 .DS_Store
